@@ -1,5 +1,5 @@
 # Video Repair for 马栏山杯 contest
-The code in this repo is used to take part in the video repair contest, whose task is to remove artifacts in video caused by JPEG compression. You can click <a href="" target="_blank">this link</a> to see more details.
+The code in this repo is used to take part in the video repair contest, whose task is to remove artifacts in video caused by JPEG compression. You can click <a href="https://zhuanlan.zhihu.com/p/156081531" target="_blank">this link</a> to see more details.
 
 ### Installation
 ---
